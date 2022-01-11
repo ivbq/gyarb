@@ -1,0 +1,3320 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Ivar Boqvist</LastAuthor>
+  <LastSaved>2021-10-01T11:21:20Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>3</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>4</Index>
+    <RGB>#006100</RGB>
+   </Color>
+   <Color>
+    <Index>5</Index>
+    <RGB>#3F3F3F</RGB>
+   </Color>
+   <Color>
+    <Index>6</Index>
+    <RGB>#3F3F76</RGB>
+   </Color>
+   <Color>
+    <Index>7</Index>
+    <RGB>#44546A</RGB>
+   </Color>
+   <Color>
+    <Index>8</Index>
+    <RGB>#7F7F7F</RGB>
+   </Color>
+   <Color>
+    <Index>9</Index>
+    <RGB>#9C0006</RGB>
+   </Color>
+   <Color>
+    <Index>10</Index>
+    <RGB>#9C5700</RGB>
+   </Color>
+   <Color>
+    <Index>11</Index>
+    <RGB>#C0C0C0</RGB>
+   </Color>
+   <Color>
+    <Index>12</Index>
+    <RGB>#FA7D00</RGB>
+   </Color>
+   <Color>
+    <Index>13</Index>
+    <RGB>#FF0000</RGB>
+   </Color>
+   <Color>
+    <Index>14</Index>
+    <RGB>#FFFFFF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9204</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Default">
+  </Style>
+  <Style ss:ID="s109" ss:Parent="s62">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s110" ss:Parent="s62">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s112" ss:Parent="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Gymnasieskola">
+  <Table ss:ExpandedColumnCount="1024" ss:ExpandedRowCount="88" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="14.4">
+   <Column ss:StyleID="s62" ss:Width="55.2"/>
+   <Column ss:StyleID="s62" ss:Width="285"/>
+   <Column ss:StyleID="s62" ss:Width="117"/>
+   <Column ss:StyleID="s62" ss:Width="314.39999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="153.6"/>
+   <Column ss:StyleID="s62" ss:Width="164.39999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="154.19999999999999"/>
+   <Column ss:StyleID="s62" ss:Width="147"/>
+   <Column ss:StyleID="s62" ss:Width="194.4"/>
+   <Column ss:StyleID="s62" ss:Width="172.2"/>
+   <Column ss:StyleID="s62" ss:Width="141"/>
+   <Column ss:StyleID="s62" ss:Width="171.6"/>
+   <Column ss:StyleID="s62" ss:Width="181.2"/>
+   <Column ss:StyleID="s62" ss:Width="150.60000000000002"/>
+   <Column ss:StyleID="s62" ss:Width="186.60000000000002"/>
+   <Column ss:StyleID="s62" ss:Width="175.2"/>
+   <Column ss:StyleID="s62" ss:Width="176.4"/>
+   <Column ss:StyleID="s62" ss:Width="131.4"/>
+   <Column ss:StyleID="s62" ss:Width="135"/>
+   <Column ss:StyleID="s62" ss:Width="162.6"/>
+   <Column ss:StyleID="s62" ss:Width="181.79999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="194.4"/>
+   <Column ss:StyleID="s62" ss:Width="116.4"/>
+   <Column ss:StyleID="s62" ss:Width="377.4"/>
+   <Column ss:StyleID="s62" ss:Width="50.4"/>
+   <Column ss:StyleID="s62" ss:Width="48.6" ss:Span="998"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.950000000000001">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">SKOLENHETSKOD</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">SKOLENHETENS NAMN</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">JURIDISK FORM</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">WEBB</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">KOORDINATER</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">BARN- O FRITIDSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">BYGG- O ANL. PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">EL- O ENERGIPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">FORDONS- O TRANSP. PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">HANDELS O ADM. PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">HANTVERKSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">HOTELL O TURISMPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">INDUSTRITEKNISKA PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">NATURBRUKSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">REST.- O LIVSMEDELSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">VVS O FASTIGHETSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">VÅRD O OMSORGSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">EKONOMIPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ESTETISKA PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">HUMANISTISKA PROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">NATURVETENSKAPSPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">SAMHÄLLSVETENSKAPPROGRAMMET</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">TEKNIKPROGRAMMET</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">16631623</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Amerikanska Gymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.amerikanskagymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'3.600&quot;N, 18°5'31.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">54040574</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Anna Whitlocks gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.annawhitlocksgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'40.800&quot;N, 18°2'42.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">26298615</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Bergstrands Gymnasium Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.bergstrandsutbildningar.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'38.400&quot;N, 17°58'8.400&quot;E</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">77176811</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Bernadottegymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.bernadottegymnasiet.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'15.600&quot;N, 18°3'10.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">85152591</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Blackebergs gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.blackebergsgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'56.400&quot;N, 17°53'9.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">54117171</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Bromma gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://brommagymnasium.stockholm.se/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'51.600&quot;N, 17°57'39.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">48120273</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Campus Manilla Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.campusmanilla.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'30.000&quot;N, 18°7'55.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">94167577</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Cybergymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.cybergymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'49.200&quot;N, 18°2'56.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">70404319</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Dansgymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://www.dansgymnasiet.se/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°24'21.600&quot;N, 17°56'56.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">27023528</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Designgymnasiet Kungsholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.designgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'16.800&quot;N, 18°0'43.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">53903798</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Didaktus Liljeholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.didaktus.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'46.800&quot;N, 18°1'30.000&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">85782695</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Distra Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.distra.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'31.200&quot;N, 18°4'37.200&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">98815582</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Djurgymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.djurgymnasiet.com</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">59°18'46.800&quot;N, 18°1'22.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">85516596</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Drottning Blankas Gymnasieskola Stockholm Kungsholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.dbgy.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'13.200&quot;N, 18°0'46.800&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">97770837</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Drottning Blankas Gymnasieskola Stockholm Södra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.dbgy.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'24.000&quot;N, 18°5'42.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">21312503</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Elektrikergymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.elektrikergymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'52.800&quot;N, 18°0'14.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">69650864</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Enskilda gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.enskildagymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'16.800&quot;N, 18°3'18.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">84286715</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">ESS-gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://essgymnasiet.stockholm.se/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°21'54.000&quot;N, 17°52'1.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">41938272</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Franska Skolan/Ecole francaise Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.franskaskolan.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'20.400&quot;N, 18°3'46.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">76054399</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Globala gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.globalagymnasiet.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'58&quot;N, 18°2'46&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">21627442</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Grillska Gymnasiet Kungsholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://grillska.se/grillska-gymnasiet-kungsholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°21'43.200&quot;N, 17°58'33.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">33132452</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Grillska Gymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://grillska.se/grillska-gymnasiet-stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'32.400&quot;N, 18°1'37.200&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">24716263</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Hvilan Gymnasium Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.hvilanutbildning.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°32'6087&quot;N, 17°9'9091&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">35084976</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">International IT College of Sweden Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.initcollege.org</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'13.200&quot;N, 18°2'49.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">25525759</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">International School of the Stockholm Region</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.internationalschoolofthestockholmregion.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'25.200&quot;N, 18°4'51.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">77632411</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Internationella Engelska Gymnasiet Södermalm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.engelskagymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'32.400&quot;N, 18°4'19.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">56653353</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Internationella Hotell- och Restaurangskolan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.restaurangskolan.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'3.600&quot;N, 18°5'31.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">38195284</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">JENSEN Gymnasium Norra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.jensengymnasium.se/norra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'52.800&quot;N, 18°3'25.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">97510495</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">JENSEN Gymnasium Södra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.jensengymnasium.se/sodra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'26.400&quot;N, 18°4'8.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">89461767</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">KLARA Teoretiska Gymnasium Stockholm Norra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://klaragymnasium.se/sthlmnorra/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'58.800&quot;N, 18°2'16.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">94717858</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">KLARA Teoretiska Gymnasium Stockholm Södra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.klaragymnasium.se/stockholmsodra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'3.600&quot;N, 18°5'31.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">73812226</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">KLARA Teoretiska Gymnasium Stockholm Västra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://klaragymnasium.se/sthlmvastra/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'13.200&quot;N, 18°0'46.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">17911161</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">KLARA Teoretiska Gymnasium Stockholm Östra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.klaragymnasium.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'52.800&quot;N, 18°6'7.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">53760158</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kristofferskolan, gy</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://kristofferskolan.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'6.000&quot;N, 17°56'20.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">78422467</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kulturama gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kulturama.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'7.200&quot;N, 18°5'52.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">37802196</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kulturama Gymnasium Natur</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kulturama.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'45.600&quot;N, 18°3'3.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">38683336</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kungl. Svenska Balettskolan Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kungligasvenskabalettskolan.se/gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'15.600&quot;N, 18°3'7.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">74812809</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kungsh gy/Sthlms Musikgy</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kungsholmensgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'48.000&quot;N, 18°2'2.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">95618280</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kungsholmens Västra Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kungsholmensvastragymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'44.400&quot;N, 18°0'50.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">75075402</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kungstensgymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.kungstensgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'27.600&quot;N, 18°3'18.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">26326048</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kunskapsgymnasiet Globen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://www.kunskapsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'45.600&quot;N, 18°4'48.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">49068301</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kunskapsgymnasiet Liljeholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://www.kunskapsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'32.400&quot;N, 18°1'44.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">37839488</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kärrtorps gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.karrtorpsgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'9.600&quot;N, 18°6'46.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">46256929</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">LBS Kreativa Gymnasiet Stockholm Södra</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.lbs.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'24.000&quot;N, 18°5'42.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">83374651</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Lilla Akademiens Musikgymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.lillaakademien.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'45.600&quot;N, 18°2'52.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59796774</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Lycée Francais Saint Louis Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.lfsl.net</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'15.600&quot;N, 17°59'13.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">56942970</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Magelungens Gymnasium Liljeholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.magelungen.com</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'46.800&quot;N, 18°1'22.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">24147242</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Magelungens gymnasium Södermalm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.magelungen.com</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'54.000&quot;N, 18°4'37.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">17675502</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Midsommarkransens gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://midsommarkransensgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'14.400&quot;N, 18°0'54.000&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">30762346</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Nordiska Musikgymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.musikgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'39.600&quot;N, 18°1'33.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">82964090</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Norra Real</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://norrarealsgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'38.400&quot;N, 18°3'43.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">92204274</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">NTI Gymnasiet Gärdet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://www.ntigymnasiet.se/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'52.800&quot;N, 18°6'7.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">15390992</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">NTI Gymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.ntigymnasiet.se/stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'14.94634&quot;N, 18°2'46.62106&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">15278518</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">NTI Handelsgymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.ntigymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'49.200&quot;N, 18°3'0.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">50644850</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">NTI Vetenskapsgymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.ntigymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">55°24'50.400&quot;N, 12°56'52.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">63943560</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Odengymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.odengymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'21.600&quot;N, 17°58'55.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">24650116</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">P A Fogelströms gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://pafogelstromsgymnasium.stockholm.se/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'1.200&quot;N, 18°5'6.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">14926020</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Praktiska Gymnasiet Bromma</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.praktiska.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'50.400&quot;N, 18°1'15.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">38236800</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Praktiska Gymnasiet Stockholm Liljeholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">https://praktiska.se/skolor/stockholm-liljeholmen</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'50.400&quot;N, 18°1'30.000&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59359012</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">ProCivitas Privata Gymnasium Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.procivitas.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°14'38.400&quot;N, 17°55'30.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">16784385</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Påhlmans gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.pahlmansgymnasium.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'45.600&quot;N, 18°3'3.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59026584</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Realgymnasiet Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.realgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'44.400&quot;N, 18°4'8.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">79829846</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">REFIS Rörentr. friskola Sthlm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.refis.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'46.800&quot;N, 18°1'30.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">65666808</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">S:t Eriks gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.steriksgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'6.000&quot;N, 18°2'16.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">24339566</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sjölins gymnasium Södermalm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.sjolinsgymnasium.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'1.200&quot;N, 18°4'58.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">87844327</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sjölins Gymnasium Vasastan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.sjolinsgymnasium.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'34.800&quot;N, 18°1'44.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">20061769</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sjömansskolan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.sjomansskolan.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'12.000&quot;N, 18°2'2.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">95154882</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Snitz Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.snitz.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'49.200&quot;N, 18°3'0.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">52333875</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Spånga Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.spangagymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°22'48.000&quot;N, 17°53'34.800&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">30677562</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sthlm hotell &amp; restaurangsk</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://stockholmshotellochrestaurangskola.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°17'31.200&quot;N, 18°4'51.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">85054102</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sthlm Transport- och fordonstekniska gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.stfg.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°15'39.600&quot;N, 17°53'49.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">89693952</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Stockholm International School Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.intsch.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'20.400&quot;N, 18°3'57.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">24759907</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Fryshusets Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.fryshuset.se/gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'3.600&quot;N, 18°5'24.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">78433202</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Stockholm Science &amp; Innovation School</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://ssis.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°24'28.800&quot;N, 17°56'45.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">35366805</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Stockholms Estetiska Gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.estetiska.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'50.400&quot;N, 18°1'26.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">31315191</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Stockholms Idrottsgymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.idrottsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°21'7.200&quot;N, 18°3'36.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">89370947</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Södra Latins gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://sodralatinsgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'1.200&quot;N, 18°4'8.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">18451445</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Teknik &amp; Service Gymnasiet</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.tsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°16'19.200&quot;N, 18°0'25.200&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">48555205</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Thoren Business School Stockholm</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.affarsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°18'54.000&quot;N, 18°4'15.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">31313926</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Thoren Innovation School Kista</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.innovationsgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'45.600&quot;N, 18°5'6.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">32116280</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Thorildsplans gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://thorildsplansgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°19'52&quot;N, 18°0'50&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">43565270</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Tibble Gymnasium Campus Kista</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.tibble.nu/</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°24'21.600&quot;N, 17°56'56.400&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">53175499</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Tyska skolan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.tyskaskolan.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'31.200&quot;N, 18°4'12.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">64388538</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Viktor Rydberg gy. Jarlaplan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.vrskolor.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'34.800&quot;N, 18°3'54.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">52153758</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Viktor Rydberg gy. Odenplan</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Icke-vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.vrskolor.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'45.600&quot;N, 18°3'0.000&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">16501673</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Yrkesgymnasiet Skarpnäck</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Vinstdrivande</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://www.yrkesgymnasiet.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'52.800&quot;N, 18°6'39.600&quot;E</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">99755443</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Östra Reals gymnasium</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Kommunal</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">http://ostrarealsgymnasium.stockholm.se</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">59°20'20.400&quot;N, 18°5'9.600&quot;E</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <x:WorksheetOptions/>
+ </Worksheet>
+</Workbook>

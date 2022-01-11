@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>gy_mapping</title>
+
+        <!-- Resources -->
+        <script defer src="script.js"></script>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <script src="https://unpkg.com/geojson@0.5.0/geojson.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+    </head>
+    <body>
+        <aside>
+            <header></header>
+            <form>
+                <input id="search">
+                <input type="checkbox" name="TE">
+                <label for="TE">Teknikprogrammet</label>
+            </form>
+            <div id="info">
+                <div id="sdiv">
+                  <a id="school" href="">Ingen skola vald!</a>
+                  <p id="form"></p>
+                </div>
+                <div>
+                    <p id="nearest"></p>
+                </div>
+                <ul id="programs"></ul>
+            </div>
+        </aside>
+        <div id="leaflet"></div>
+    </body>
+</html>

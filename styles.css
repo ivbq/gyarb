@@ -6,17 +6,13 @@ body {
     font-family: sans-serif;
 }
 
-aside {
-    width: 400px;
-}
-
-form, #info {
+/* form, #info {
     display: flex;
     flex-direction: column;
     margin: 20px;
     padding: 10px;
     border: 2px solid black;
-}
+} */
 
 #search {
     height: 25px;

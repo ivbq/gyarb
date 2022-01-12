@@ -95,7 +95,8 @@ nodeLayer.on("click", (event) => {
 
     // Show basic school information
     document.getElementById("school").innerHTML = node.properties.name;
-    document.getElementById("school").href = node.properties.url;
+    document.getElementById("link").innerHTML = "Hemsida";
+    document.getElementById("link").href = node.properties.url;
     document.getElementById("form").innerHTML = node.properties.form;
 
     // Show available programs

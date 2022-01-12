@@ -9,118 +9,120 @@
         <!-- Resources -->
         <script defer src="script.js"></script>
         <link rel="stylesheet" href="styles.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
         <script src="https://unpkg.com/geojson@0.5.0/geojson.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
     </head>
     <body>
-        <aside>
-            <form>
+        <aside class="d-flex flex-column align-items-stretch flex-shrink-0 p-3" style="width: 380px;">
+            <div class="card flex-grow-2">
+                <div class="card-body">
+                  <h5 id="school" class="card-title">Ingen skola vald!</h5>
+                  <h6 id="form" class="card-subtitle mb-2 text-muted"></h6>
+                  <div id="programs" class="card-text"></div>
+                  <a id="link" href="#" class="card-link"></a>
+                </div>
+              </div>
+              <!-- Next up: making a list of schools on screen -->
+              <!-- Next-next up: making it so when you click a node in the list it will get highlighted on the card and zoomed onto on the map (hint: leaflet setview) -->
+            <!-- <form>
                 <input id="search">
                 <p>Högskoleförberedande program</p>
                 <ul>
-                    <ul>
+                    <li>
                         <input type="checkbox" name="EK">
                         <label for="EK">Ekonomiprogrammet</label>
-                    </ul>
-                    <ul>
+                    </li>
+                    <li>
                         <input type="checkbox" name="ES">
                         <label for="ES">Estetiska programmet</label>
-                    </ul>
-                    <ul>
+                    </li>
+                    <li>
                         <input type="checkbox" name="HU">
                         <label for="HU">Humanistiska programmet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="NA">
                         <label for="NA">Naturvetenskapsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="SA">
                         <label for="SA">Samhällsvetenskapsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="TE">
                         <label for="TE">Teknikprogrammet</label>
-                    </ul>
+                    </li>
                 </ul>
                 <p>Yrkesprogram</p>
                 <ul>
-                    <ul>
+                    <li>
                         <input type="checkbox" name="BF">
                         <label for="BF">Barn- och fritidsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="BA">
                         <label for="BA">Bygg- och anläggningsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="EE">
                         <label for="EE">El- och energiprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="FT">
                         <label for="FT">Fordons- och transportprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="HA">
                         <label for="HA">Handels- och administrationsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="HT">
                         <label for="HT">Hotell- och turismprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="HV">
                         <label for="HV">Hantverksprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="IN">
                         <label for="IN">Industritekniska programmet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="NB">
                         <label for="NB">Naturbruksprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="RL">
                         <label for="RL">Restaurang- och livsmedelsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="VF">
                         <label for="VF">VVS- och fastighetsprogrammet</label>
-                    </ul>
+                    </li>
                     
-                    <ul>
+                    <li>
                         <input type="checkbox" name="VO">
                         <label for="VO">Vård- och omsorgsprogrammet</label>
-                    </ul>
+                    </li>
                 </ul>
-            </form>
-            <div id="info">
-                <div id="sdiv">
-                  <a id="school" href="">Ingen skola vald!</a>
-                  <p id="form"></p>
-                </div>
-                <!-- <div>
-                    <p id="nearest"></p>
-                </div> -->
-                <ul id="programs"></ul>
-            </div>
+            </form> -->
         </aside>
         <div id="leaflet"></div>
     </body>

@@ -6,31 +6,39 @@ body {
     font-family: sans-serif;
 }
 
-div {
-    margin: 10px;
-}
-
 aside {
     width: 400px;
 }
 
 form, #info {
+    display: flex;
+    flex-direction: column;
     margin: 20px;
+    padding: 10px;
     border: 2px solid black;
 }
 
-input {
-    margin: 10px;
+#search {
     height: 25px;
-    width: 25px;
+    width: 330px;
 }
 
-#search {
-    width: 325px;
+ul {
+    margin:0;
+    padding: 0;
+}
+
+#sdiv {
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 #school {
     font-size: 20px;
+}
+
+#programs {
+    padding: 10px;
 }
 
 #form, #leaflet {

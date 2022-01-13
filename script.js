@@ -16,6 +16,16 @@ fetch('nodes.geojson')
     .then(response => response.json())
     .then(data => nodeLayer.addData(data));
 
+fetch('nodes.geojson')
+    .then(response => response.json())
+    .then(async function name(data) {
+        var isoArray = [];
+        for (const [key, value] of Object.entries(data.features)) {
+            isoArray.push(await retrieveIsochrone(value));
+        }
+        console.log(isoArray);
+    })
+    
 let subwayNodes;
 fetch('subway.geojson')
     .then(response => response.json())
@@ -65,6 +75,18 @@ let formatCoords = function (nodeObject) {
     nodeObject.forEach(obj => { tempCoords += `${turf.getCoord(obj)[0]},${turf.getCoord(obj)[1]};` })
     return tempCoords.slice(0, -1);
 }
+
+// Function to populate list of schools
+// document.getElementById("programs").innerHTML = "";
+// for (const [key, value] of Object.entries(node.properties)) {
+//     if (value == "J") {
+//         let listElement = document.createElement("li");
+//         listElement.innerHTML = program[key];
+//         document.getElementById("programs").appendChild(listElement);
+//     }
+// }
+
+
 
 // Dictionary of program name and corresponding program code for national programs
 const program = {

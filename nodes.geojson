@@ -1,1 +1,2691 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[17.99172424887593,59.326097230650085]},"properties":{"id":"16631623","name":"Amerikanska Gymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.amerikanskagymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.044599291156814,59.32881058346526]},"properties":{"id":"54040574","name":"Anna Whitlocks gymnasium","form":"Kommunal","url":"http://www.annawhitlocksgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.96912353269461,59.34412720840386]},"properties":{"id":"26298615","name":"Bergstrands Gymnasium Stockholm","form":"Vinstdrivande","url":"http://www.bergstrandsutbildningar.se","BF":"N","BA":"J","EE":"N","FT":"J","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.053225325443787,59.32091161416199]},"properties":{"id":"77176811","name":"Bernadottegymnasiet","form":"Kommunal","url":"http://www.bernadottegymnasiet.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.88646171998897,59.34927735617008]},"properties":{"id":"85152591","name":"Blackebergs gymnasium","form":"Kommunal","url":"http://www.blackebergsgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.960812491046603,59.331946836951104]},"properties":{"id":"54117171","name":"Bromma gymnasium","form":"Kommunal","url":"http://brommagymnasium.stockholm.se/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.13323092256015,59.324993006672884]},"properties":{"id":"48120273","name":"Campus Manilla Gymnasium","form":"Vinstdrivande","url":"http://www.campusmanilla.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.04915174852503,59.347304092400584]},"properties":{"id":"94167577","name":"Cybergymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.cybergymnasiet.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"J","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"J","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.948194733470963,59.406148238574204]},"properties":{"id":"70404319","name":"Dansgymnasiet Stockholm","form":"Vinstdrivande","url":"https://www.dansgymnasiet.se/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.01151193519849,59.33831072738096]},"properties":{"id":"27023528","name":"Designgymnasiet Kungsholmen","form":"Vinstdrivande","url":"http://www.designgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"J","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.023873569964035,59.31330434875577]},"properties":{"id":"53903798","name":"Didaktus Liljeholmen","form":"Vinstdrivande","url":"http://www.didaktus.se","BF":"J","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.983138112519402,59.30786925082149]},"properties":{"id":"85782695","name":"Distra Gymnasium","form":"Vinstdrivande","url":"http://www.distra.se","BF":"N","BA":"J","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.02265358856153,59.31325019814598]},"properties":{"id":"98815582","name":"Djurgymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.djurgymnasiet.com","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"J","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.013907279260525,59.337124341317406]},"properties":{"id":"85516596","name":"Drottning Blankas Gymnasieskola Stockholm Kungsholmen","form":"Vinstdrivande","url":"http://www.dbgy.se","BF":"J","BA":"N","EE":"N","FT":"N","HA":"J","HV":"J","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.09182069259032,59.29123098405548]},"properties":{"id":"97770837","name":"Drottning Blankas Gymnasieskola Stockholm Södra","form":"Vinstdrivande","url":"http://www.dbgy.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"J","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.00450963482286,59.29864916293044]},"properties":{"id":"21312503","name":"Elektrikergymnasiet","form":"Vinstdrivande","url":"http://www.elektrikergymnasiet.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.055549805237685,59.33792710636786]},"properties":{"id":"69650864","name":"Enskilda gymnasiet","form":"Icke-vinstdrivande","url":"http://www.enskildagymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.063344567754005,59.33871660202049]},"properties":{"id":"41938272","name":"Franska Skolan/Ecole francaise Gymnasium","form":"Icke-vinstdrivande","url":"http://www.franskaskolan.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"J","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.046086664061885,59.31671861039036]},"properties":{"id":"76054399","name":"Globala gymnasiet","form":"Kommunal","url":"http://www.globalagymnasiet.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"J","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.007801074246224,59.33811260613994]},"properties":{"id":"21627442","name":"Grillska Gymnasiet Kungsholmen","form":"Icke-vinstdrivande","url":"https://grillska.se/grillska-gymnasiet-kungsholmen","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"J","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.026692443448784,59.3088031525796]},"properties":{"id":"33132452","name":"Grillska Gymnasiet Stockholm","form":"Icke-vinstdrivande","url":"https://grillska.se/grillska-gymnasiet-stockholm","BF":"J","BA":"N","EE":"J","FT":"N","HA":"J","HV":"J","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"N","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.991017177838597,59.32616907982077]},"properties":{"id":"24716263","name":"Hvilan Gymnasium Stockholm","form":"Vinstdrivande","url":"http://www.hvilanutbildning.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.047204583836255,59.33718832095308]},"properties":{"id":"35084976","name":"International IT College of Sweden Stockholm","form":"Vinstdrivande","url":"http://www.initcollege.org","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.08178612111206,59.30692688550778]},"properties":{"id":"25525759","name":"International School of the Stockholm Region","form":"Kommunal","url":"http://www.internationalschoolofthestockholmregion.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.07225122580407,59.30947516757348]},"properties":{"id":"77632411","name":"Internationella Engelska Gymnasiet Södermalm","form":"Vinstdrivande","url":"http://www.engelskagymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.01402888266406,59.33705148363979]},"properties":{"id":"56653353","name":"Internationella Hotell- och Restaurangskolan","form":"Vinstdrivande","url":"http://www.restaurangskolan.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"J","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.056753636955435,59.3480873687751]},"properties":{"id":"38195284","name":"JENSEN Gymnasium Norra","form":"Vinstdrivande","url":"http://www.jensengymnasium.se/norra","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.069533384023345,59.32417488538165]},"properties":{"id":"97510495","name":"JENSEN Gymnasium Södra","form":"Vinstdrivande","url":"http://www.jensengymnasium.se/sodra","BF":"N","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.037928516751286,59.3334617330164]},"properties":{"id":"89461767","name":"KLARA Teoretiska Gymnasium Stockholm Norra","form":"Vinstdrivande","url":"https://klaragymnasium.se/sthlmnorra/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.09224442054258,59.30099630377905]},"properties":{"id":"94717858","name":"KLARA Teoretiska Gymnasium Stockholm Södra","form":"Vinstdrivande","url":"http://www.klaragymnasium.se/stockholmsodra","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.012866184854833,59.33760059746436]},"properties":{"id":"73812226","name":"KLARA Teoretiska Gymnasium Stockholm Västra","form":"Vinstdrivande","url":"https://klaragymnasium.se/sthlmvastra/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.102083904116885,59.34813351112037]},"properties":{"id":"17911161","name":"KLARA Teoretiska Gymnasium Stockholm Östra","form":"Vinstdrivande","url":"http://www.klaragymnasium.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.938949379003517,59.334847252793026]},"properties":{"id":"53760158","name":"Kristofferskolan, gy","form":"Icke-vinstdrivande","url":"https://kristofferskolan.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.09777374719312,59.30177320154886]},"properties":{"id":"78422467","name":"Kulturama gymnasium","form":"Icke-vinstdrivande","url":"http://www.kulturama.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.051915467225395,59.320701153291104]},"properties":{"id":"38683336","name":"Kungl. Svenska Balettskolan Gymnasium","form":"Kommunal","url":"http://www.kungligasvenskabalettskolan.se/gymnasiet","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.03344916862293,59.3303423414576]},"properties":{"id":"74812809","name":"Kungsh gy/Sthlms Musikgy","form":"Kommunal","url":"http://www.kungsholmensgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"J","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.013994099588718,59.32892829044351]},"properties":{"id":"95618280","name":"Kungsholmens Västra Gymnasium","form":"Kommunal","url":"http://www.kungsholmensvastragymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"N","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.05510269994159,59.34057766332146]},"properties":{"id":"75075402","name":"Kungstensgymnasiet","form":"Icke-vinstdrivande","url":"http://www.kungstensgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.080277700643574,59.29614791960227]},"properties":{"id":"26326048","name":"Kunskapsgymnasiet Globen","form":"Vinstdrivande","url":"https://www.kunskapsgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.027431700643668,59.309224015399074]},"properties":{"id":"49068301","name":"Kunskapsgymnasiet Liljeholmen","form":"Vinstdrivande","url":"https://www.kunskapsgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.113417677675404,59.28651731885684]},"properties":{"id":"37839488","name":"Kärrtorps gymnasium","form":"Kommunal","url":"http://www.karrtorpsgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.091784137006982,59.29112057939406]},"properties":{"id":"46256929","name":"LBS Kreativa Gymnasiet Stockholm Södra","form":"Vinstdrivande","url":"http://www.lbs.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.049181556938468,59.34656018891924]},"properties":{"id":"83374651","name":"Lilla Akademiens Musikgymnasium","form":"Vinstdrivande","url":"http://www.lillaakademien.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.985780918986862,59.32117474304748]},"properties":{"id":"59796774","name":"Lycée Francais Saint Louis Gymnasium","form":"Icke-vinstdrivande","url":"http://www.lfsl.net","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.09362161268545,59.30966818786166]},"properties":{"id":"56942970","name":"Magelungens Gymnasium Liljeholmen","form":"Vinstdrivande","url":"http://www.magelungen.com","BF":"N","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.093664527023822,59.30965175922205]},"properties":{"id":"24147242","name":"Magelungens Gymnasium Södermalm","form":"Vinstdrivande","url":"http://www.magelungen.com","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.016335523719427,59.3045806255371]},"properties":{"id":"17675502","name":"Midsommarkransens gymnasium","form":"Kommunal","url":"https://midsommarkransensgymnasium.stockholm.se","BF":"J","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.025959334203037,59.31098667715123]},"properties":{"id":"30762346","name":"Nordiska Musikgymnasiet","form":"Vinstdrivande","url":"http://www.musikgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.06141559958841,59.34389236333283]},"properties":{"id":"82964090","name":"Norra Real","form":"Kommunal","url":"https://norrarealsgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"J","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.101686430509332,59.34803841156868]},"properties":{"id":"92204274","name":"NTI Gymnasiet Gärdet","form":"Vinstdrivande","url":"https://www.ntigymnasiet.se/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.046267523268476,59.33746027706049]},"properties":{"id":"15390992","name":"NTI Gymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.ntigymnasiet.se/stockholm","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.050054935643995,59.34709441513365]},"properties":{"id":"15278518","name":"NTI Handelsgymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.ntigymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.024858430860878,59.33127247842304]},"properties":{"id":"50644850","name":"NTI Vetenskapsgymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.ntigymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"J","SA":"N","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.98232081021698,59.30646322493205]},"properties":{"id":"63943560","name":"Odengymnasiet","form":"Vinstdrivande","url":"http://www.odengymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"J","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.085148733291746,59.31661052314583]},"properties":{"id":"24650116","name":"P A Fogelströms gymnasium","form":"Kommunal","url":"http://pafogelstromsgymnasium.stockholm.se/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.96994590029397,59.344896103940926]},"properties":{"id":"14926020","name":"Praktiska Gymnasiet Bromma","form":"Vinstdrivande","url":"http://www.praktiska.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"J","VF":"J","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.025171199555817,59.31359503168235]},"properties":{"id":"38236800","name":"Praktiska Gymnasiet Stockholm Liljeholmen","form":"Vinstdrivande","url":"https://praktiska.se/skolor/stockholm-liljeholmen","BF":"N","BA":"J","EE":"J","FT":"J","HA":"J","HV":"J","HT":"J","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.082638613811525,59.31675531523864]},"properties":{"id":"59359012","name":"ProCivitas Privata Gymnasium Stockholm","form":"Vinstdrivande","url":"http://www.procivitas.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.05081429967175,59.346189693809976]},"properties":{"id":"16784385","name":"Påhlmans gymnasium","form":"Icke-vinstdrivande","url":"http://www.pahlmansgymnasium.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.02345183843342,59.3139603213595]},"properties":{"id":"59026584","name":"Realgymnasiet Stockholm","form":"Vinstdrivande","url":"http://www.realgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"J","HA":"N","HV":"J","HT":"J","IN":"N","NB":"J","RL":"J","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.024418367074862,59.31261863924038]},"properties":{"id":"79829846","name":"REFIS Rörentr. friskola Sthlm","form":"Vinstdrivande","url":"http://www.refis.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"J","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.038491404201842,59.33458097566069]},"properties":{"id":"65666808","name":"S:t Eriks gymnasium","form":"Kommunal","url":"http://www.steriksgymnasium.stockholm.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"J","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.082683710195386,59.31684221962761]},"properties":{"id":"24339566","name":"Sjölins gymnasium Södermalm","form":"Vinstdrivande","url":"http://www.sjolinsgymnasium.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.06312848229725,59.33631932152199]},"properties":{"id":"87844327","name":"Sjölins Gymnasium Vasastan","form":"Vinstdrivande","url":"http://www.sjolinsgymnasium.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.034501862850888,59.3205886986114]},"properties":{"id":"20061769","name":"Sjömansskolan","form":"Vinstdrivande","url":"http://www.sjomansskolan.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.892152804449683,59.38023668353484]},"properties":{"id":"52333875","name":"Spånga Gymnasium","form":"Kommunal","url":"http://www.spangagymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"J","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.081058008827586,59.29239233232479]},"properties":{"id":"30677562","name":"Sthlm hotell & restaurangsk","form":"Kommunal","url":"http://stockholmshotellochrestaurangskola.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"J","IN":"N","NB":"N","RL":"J","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.89666694807233,59.26128146367994]},"properties":{"id":"85054102","name":"Sthlm Transport- och fordonstekniska gymnasiet","form":"Kommunal","url":"http://www.stfg.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"J","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.062738006188464,59.338300668882944]},"properties":{"id":"89693952","name":"Stockholm International School Gymnasium","form":"Icke-vinstdrivande","url":"http://www.intsch.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.089954621859476,59.300827903930646]},"properties":{"id":"24759907","name":"Fryshusets Gymnasium","form":"Icke-vinstdrivande","url":"http://www.fryshuset.se/gymnasium","BF":"N","BA":"N","EE":"N","FT":"N","HA":"J","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.94531519185434,59.40708994609386]},"properties":{"id":"78433202","name":"Stockholm Science & Innovation School","form":"Kommunal","url":"http://ssis.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.02435644222413,59.31403528888704]},"properties":{"id":"35366805","name":"Stockholms Estetiska Gymnasium","form":"Icke-vinstdrivande","url":"http://www.estetiska.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.059770611113002,59.35230011337731]},"properties":{"id":"31315191","name":"Stockholms Idrottsgymnasium","form":"Vinstdrivande","url":"http://www.idrottsgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.069152516324465,59.31677297330206]},"properties":{"id":"89370947","name":"Södra Latins gymnasium","form":"Kommunal","url":"http://sodralatinsgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"J","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.007160371439667,59.27142772772601]},"properties":{"id":"18451445","name":"Teknik & Service Gymnasiet","form":"Vinstdrivande","url":"http://www.tsgymnasiet.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"J","HT":"N","IN":"J","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.07108366203125,59.315489896194414]},"properties":{"id":"48555205","name":"Thoren Business School Stockholm","form":"Vinstdrivande","url":"http://www.affarsgymnasiet.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.9450229264386,59.405534651536975]},"properties":{"id":"31313926","name":"Thoren Innovation School Kista","form":"Vinstdrivande","url":"http://www.innovationsgymnasiet.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"N","ES":"J","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.013985588247404,59.331878427550315]},"properties":{"id":"32116280","name":"Thorildsplans gymnasium","form":"Kommunal","url":"http://thorildsplansgymnasium.stockholm.se","BF":"N","BA":"N","EE":"J","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"J"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[17.94802611423608,59.40599174002749]},"properties":{"id":"43565270","name":"Tibble Gymnasium Campus Kista","form":"Vinstdrivande","url":"http://www.tibble.nu/","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.064755294208354,59.343378585948486]},"properties":{"id":"64388538","name":"Viktor Rydberg gy. Jarlaplan","form":"Icke-vinstdrivande","url":"http://www.vrskolor.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"J","HU":"N","NA":"N","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.047846713350015,59.34545599536265]},"properties":{"id":"52153758","name":"Viktor Rydberg gy. Odenplan","form":"Icke-vinstdrivande","url":"http://www.vrskolor.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.1280782496022,59.2646615229202]},"properties":{"id":"16501673","name":"Yrkesgymnasiet Skarpnäck","form":"Vinstdrivande","url":"http://www.yrkesgymnasiet.se","BF":"N","BA":"J","EE":"J","FT":"J","HA":"J","HV":"J","HT":"J","IN":"N","NB":"N","RL":"N","VF":"N","VO":"J","EK":"N","ES":"N","HU":"N","NA":"N","SA":"N","TE":"N"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[18.086216588293233,59.33946785982251]},"properties":{"id":"99755443","name":"Östra Reals gymnasium","form":"Kommunal","url":"http://ostrarealsgymnasium.stockholm.se","BF":"N","BA":"N","EE":"N","FT":"N","HA":"N","HV":"N","HT":"N","IN":"N","NB":"N","RL":"N","VF":"N","VO":"N","EK":"J","ES":"N","HU":"N","NA":"J","SA":"J","TE":"N"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.99172424887593,
+            59.326097230650085
+          ]
+        },
+        "properties": {
+          "id": 16631623,
+          "name": "Amerikanska Gymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.amerikanskagymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.044599291156814,
+            59.32881058346526
+          ]
+        },
+        "properties": {
+          "id": 54040574,
+          "name": "Anna Whitlocks gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.annawhitlocksgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.96912353269461,
+            59.34412720840386
+          ]
+        },
+        "properties": {
+          "id": 26298615,
+          "name": "Bergstrands Gymnasium Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.bergstrandsutbildningar.se",
+          "BF": "N",
+          "BA": "J",
+          "EE": "N",
+          "FT": "J",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.053225325443787,
+            59.32091161416199
+          ]
+        },
+        "properties": {
+          "id": 77176811,
+          "name": "Bernadottegymnasiet",
+          "form": "Kommunal",
+          "url": "http://www.bernadottegymnasiet.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.88646171998897,
+            59.34927735617008
+          ]
+        },
+        "properties": {
+          "id": 85152591,
+          "name": "Blackebergs gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.blackebergsgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.960812491046603,
+            59.331946836951104
+          ]
+        },
+        "properties": {
+          "id": 54117171,
+          "name": "Bromma gymnasium",
+          "form": "Kommunal",
+          "url": "http://brommagymnasium.stockholm.se/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.13323092256015,
+            59.324993006672884
+          ]
+        },
+        "properties": {
+          "id": 48120273,
+          "name": "Campus Manilla Gymnasium",
+          "form": "Vinstdrivande",
+          "url": "http://www.campusmanilla.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.04915174852503,
+            59.347304092400584
+          ]
+        },
+        "properties": {
+          "id": 94167577,
+          "name": "Cybergymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.cybergymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "J",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "J",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.948194733470963,
+            59.406148238574204
+          ]
+        },
+        "properties": {
+          "id": 70404319,
+          "name": "Dansgymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "https://www.dansgymnasiet.se/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.01151193519849,
+            59.33831072738096
+          ]
+        },
+        "properties": {
+          "id": 27023528,
+          "name": "Designgymnasiet Kungsholmen",
+          "form": "Vinstdrivande",
+          "url": "http://www.designgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "J",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.023873569964035,
+            59.31330434875577
+          ]
+        },
+        "properties": {
+          "id": 53903798,
+          "name": "Didaktus Liljeholmen",
+          "form": "Vinstdrivande",
+          "url": "http://www.didaktus.se",
+          "BF": "J",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.983138112519402,
+            59.30786925082149
+          ]
+        },
+        "properties": {
+          "id": 85782695,
+          "name": "Distra Gymnasium",
+          "form": "Vinstdrivande",
+          "url": "http://www.distra.se",
+          "BF": "N",
+          "BA": "J",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.02265358856153,
+            59.31325019814598
+          ]
+        },
+        "properties": {
+          "id": 98815582,
+          "name": "Djurgymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.djurgymnasiet.com",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "J",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.013907279260525,
+            59.337124341317406
+          ]
+        },
+        "properties": {
+          "id": 85516596,
+          "name": "Drottning Blankas Gymnasieskola Stockholm Kungsholmen",
+          "form": "Vinstdrivande",
+          "url": "http://www.dbgy.se",
+          "BF": "J",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "J",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.09182069259032,
+            59.29123098405548
+          ]
+        },
+        "properties": {
+          "id": 97770837,
+          "name": "Drottning Blankas Gymnasieskola Stockholm Södra",
+          "form": "Vinstdrivande",
+          "url": "http://www.dbgy.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.00450963482286,
+            59.29864916293044
+          ]
+        },
+        "properties": {
+          "id": 21312503,
+          "name": "Elektrikergymnasiet",
+          "form": "Vinstdrivande",
+          "url": "http://www.elektrikergymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.055549805237685,
+            59.33792710636786
+          ]
+        },
+        "properties": {
+          "id": 69650864,
+          "name": "Enskilda gymnasiet",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.enskildagymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.063344567754005,
+            59.33871660202049
+          ]
+        },
+        "properties": {
+          "id": 41938272,
+          "name": "Franska Skolan/Ecole francaise Gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.franskaskolan.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "J",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.046086664061885,
+            59.31671861039036
+          ]
+        },
+        "properties": {
+          "id": 76054399,
+          "name": "Globala gymnasiet",
+          "form": "Kommunal",
+          "url": "http://www.globalagymnasiet.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.007801074246224,
+            59.33811260613994
+          ]
+        },
+        "properties": {
+          "id": 21627442,
+          "name": "Grillska Gymnasiet Kungsholmen",
+          "form": "Icke-vinstdrivande",
+          "url": "https://grillska.se/grillska-gymnasiet-kungsholmen",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "J",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.026692443448784,
+            59.3088031525796
+          ]
+        },
+        "properties": {
+          "id": 33132452,
+          "name": "Grillska Gymnasiet Stockholm",
+          "form": "Icke-vinstdrivande",
+          "url": "https://grillska.se/grillska-gymnasiet-stockholm",
+          "BF": "J",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "J",
+          "HV": "J",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.991017177838597,
+            59.32616907982077
+          ]
+        },
+        "properties": {
+          "id": 24716263,
+          "name": "Hvilan Gymnasium Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.hvilanutbildning.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.047204583836255,
+            59.33718832095308
+          ]
+        },
+        "properties": {
+          "id": 35084976,
+          "name": "International IT College of Sweden Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.initcollege.org",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.07225122580407,
+            59.30947516757348
+          ]
+        },
+        "properties": {
+          "id": 77632411,
+          "name": "Internationella Engelska Gymnasiet Södermalm",
+          "form": "Vinstdrivande",
+          "url": "http://www.engelskagymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.01402888266406,
+            59.33705148363979
+          ]
+        },
+        "properties": {
+          "id": 56653353,
+          "name": "Internationella Hotell- och Restaurangskolan",
+          "form": "Vinstdrivande",
+          "url": "http://www.restaurangskolan.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "J",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.056753636955435,
+            59.3480873687751
+          ]
+        },
+        "properties": {
+          "id": 38195284,
+          "name": "JENSEN Gymnasium Norra",
+          "form": "Vinstdrivande",
+          "url": "http://www.jensengymnasium.se/norra",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.069533384023345,
+            59.32417488538165
+          ]
+        },
+        "properties": {
+          "id": 97510495,
+          "name": "JENSEN Gymnasium Södra",
+          "form": "Vinstdrivande",
+          "url": "http://www.jensengymnasium.se/sodra",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.037928516751286,
+            59.3334617330164
+          ]
+        },
+        "properties": {
+          "id": 89461767,
+          "name": "KLARA Teoretiska Gymnasium Stockholm Norra",
+          "form": "Vinstdrivande",
+          "url": "https://klaragymnasium.se/sthlmnorra/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.09224442054258,
+            59.30099630377905
+          ]
+        },
+        "properties": {
+          "id": 94717858,
+          "name": "KLARA Teoretiska Gymnasium Stockholm Södra",
+          "form": "Vinstdrivande",
+          "url": "http://www.klaragymnasium.se/stockholmsodra",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.012866184854833,
+            59.33760059746436
+          ]
+        },
+        "properties": {
+          "id": 73812226,
+          "name": "KLARA Teoretiska Gymnasium Stockholm Västra",
+          "form": "Vinstdrivande",
+          "url": "https://klaragymnasium.se/sthlmvastra/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.102083904116885,
+            59.34813351112037
+          ]
+        },
+        "properties": {
+          "id": 17911161,
+          "name": "KLARA Teoretiska Gymnasium Stockholm Östra",
+          "form": "Vinstdrivande",
+          "url": "http://www.klaragymnasium.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.938949379003517,
+            59.334847252793026
+          ]
+        },
+        "properties": {
+          "id": 53760158,
+          "name": "Kristofferskolan, gy",
+          "form": "Icke-vinstdrivande",
+          "url": "https://kristofferskolan.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.09777374719312,
+            59.30177320154886
+          ]
+        },
+        "properties": {
+          "id": 78422467,
+          "name": "Kulturama gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.kulturama.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.03344916862293,
+            59.3303423414576
+          ]
+        },
+        "properties": {
+          "id": 74812809,
+          "name": "Kungsh gy/Sthlms Musikgy",
+          "form": "Kommunal",
+          "url": "http://www.kungsholmensgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "J",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.013994099588718,
+            59.32892829044351
+          ]
+        },
+        "properties": {
+          "id": 95618280,
+          "name": "Kungsholmens Västra Gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.kungsholmensvastragymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.05510269994159,
+            59.34057766332146
+          ]
+        },
+        "properties": {
+          "id": 75075402,
+          "name": "Kungstensgymnasiet",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.kungstensgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.080277700643574,
+            59.29614791960227
+          ]
+        },
+        "properties": {
+          "id": 26326048,
+          "name": "Kunskapsgymnasiet Globen",
+          "form": "Vinstdrivande",
+          "url": "https://www.kunskapsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.027431700643668,
+            59.309224015399074
+          ]
+        },
+        "properties": {
+          "id": 49068301,
+          "name": "Kunskapsgymnasiet Liljeholmen",
+          "form": "Vinstdrivande",
+          "url": "https://www.kunskapsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.113417677675404,
+            59.28651731885684
+          ]
+        },
+        "properties": {
+          "id": 37839488,
+          "name": "Kärrtorps gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.karrtorpsgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.091784137006982,
+            59.29112057939406
+          ]
+        },
+        "properties": {
+          "id": 46256929,
+          "name": "LBS Kreativa Gymnasiet Stockholm Södra",
+          "form": "Vinstdrivande",
+          "url": "http://www.lbs.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.049181556938468,
+            59.34656018891924
+          ]
+        },
+        "properties": {
+          "id": 83374651,
+          "name": "Lilla Akademiens Musikgymnasium",
+          "form": "Vinstdrivande",
+          "url": "http://www.lillaakademien.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.985780918986862,
+            59.32117474304748
+          ]
+        },
+        "properties": {
+          "id": 59796774,
+          "name": "Lycée Francais Saint Louis Gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.lfsl.net",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.09362161268545,
+            59.30966818786166
+          ]
+        },
+        "properties": {
+          "id": 56942970,
+          "name": "Magelungens Gymnasium Liljeholmen",
+          "form": "Vinstdrivande",
+          "url": "http://www.magelungen.com",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.093664527023822,
+            59.30965175922205
+          ]
+        },
+        "properties": {
+          "id": 24147242,
+          "name": "Magelungens Gymnasium Södermalm",
+          "form": "Vinstdrivande",
+          "url": "http://www.magelungen.com",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.016335523719427,
+            59.3045806255371
+          ]
+        },
+        "properties": {
+          "id": 17675502,
+          "name": "Midsommarkransens gymnasium",
+          "form": "Kommunal",
+          "url": "https://midsommarkransensgymnasium.stockholm.se",
+          "BF": "J",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.025959334203037,
+            59.31098667715123
+          ]
+        },
+        "properties": {
+          "id": 30762346,
+          "name": "Nordiska Musikgymnasiet",
+          "form": "Vinstdrivande",
+          "url": "http://www.musikgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.06141559958841,
+            59.34389236333283
+          ]
+        },
+        "properties": {
+          "id": 82964090,
+          "name": "Norra Real",
+          "form": "Kommunal",
+          "url": "https://norrarealsgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "J",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.101686430509332,
+            59.34803841156868
+          ]
+        },
+        "properties": {
+          "id": 92204274,
+          "name": "NTI Gymnasiet Gärdet",
+          "form": "Vinstdrivande",
+          "url": "https://www.ntigymnasiet.se/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.046267523268476,
+            59.33746027706049
+          ]
+        },
+        "properties": {
+          "id": 15390992,
+          "name": "NTI Gymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.ntigymnasiet.se/stockholm",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.050054935643995,
+            59.34709441513365
+          ]
+        },
+        "properties": {
+          "id": 15278518,
+          "name": "NTI Handelsgymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.ntigymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.024858430860878,
+            59.33127247842304
+          ]
+        },
+        "properties": {
+          "id": 50644850,
+          "name": "NTI Vetenskapsgymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.ntigymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "N",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.98232081021698,
+            59.30646322493205
+          ]
+        },
+        "properties": {
+          "id": 63943560,
+          "name": "Odengymnasiet",
+          "form": "Vinstdrivande",
+          "url": "http://www.odengymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "J",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.085148733291746,
+            59.31661052314583
+          ]
+        },
+        "properties": {
+          "id": 24650116,
+          "name": "P A Fogelströms gymnasium",
+          "form": "Kommunal",
+          "url": "http://pafogelstromsgymnasium.stockholm.se/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.96994590029397,
+            59.344896103940926
+          ]
+        },
+        "properties": {
+          "id": 14926020,
+          "name": "Praktiska Gymnasiet Bromma",
+          "form": "Vinstdrivande",
+          "url": "http://www.praktiska.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "J",
+          "VF": "J",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.025171199555817,
+            59.31359503168235
+          ]
+        },
+        "properties": {
+          "id": 38236800,
+          "name": "Praktiska Gymnasiet Stockholm Liljeholmen",
+          "form": "Vinstdrivande",
+          "url": "https://praktiska.se/skolor/stockholm-liljeholmen",
+          "BF": "N",
+          "BA": "J",
+          "EE": "J",
+          "FT": "J",
+          "HA": "J",
+          "HV": "J",
+          "HT": "J",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.082638613811525,
+            59.31675531523864
+          ]
+        },
+        "properties": {
+          "id": 59359012,
+          "name": "ProCivitas Privata Gymnasium Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.procivitas.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.05081429967175,
+            59.346189693809976
+          ]
+        },
+        "properties": {
+          "id": 16784385,
+          "name": "Påhlmans gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.pahlmansgymnasium.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.02345183843342,
+            59.3139603213595
+          ]
+        },
+        "properties": {
+          "id": 59026584,
+          "name": "Realgymnasiet Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.realgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "J",
+          "HA": "N",
+          "HV": "J",
+          "HT": "J",
+          "IN": "N",
+          "NB": "J",
+          "RL": "J",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.024418367074862,
+            59.31261863924038
+          ]
+        },
+        "properties": {
+          "id": 79829846,
+          "name": "REFIS Rörentr. friskola Sthlm",
+          "form": "Vinstdrivande",
+          "url": "http://www.refis.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "J",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.038491404201842,
+            59.33458097566069
+          ]
+        },
+        "properties": {
+          "id": 65666808,
+          "name": "S:t Eriks gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.steriksgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "J",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.082683710195386,
+            59.31684221962761
+          ]
+        },
+        "properties": {
+          "id": 24339566,
+          "name": "Sjölins gymnasium Södermalm",
+          "form": "Vinstdrivande",
+          "url": "http://www.sjolinsgymnasium.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.06312848229725,
+            59.33631932152199
+          ]
+        },
+        "properties": {
+          "id": 87844327,
+          "name": "Sjölins Gymnasium Vasastan",
+          "form": "Vinstdrivande",
+          "url": "http://www.sjolinsgymnasium.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.892152804449683,
+            59.38023668353484
+          ]
+        },
+        "properties": {
+          "id": 52333875,
+          "name": "Spånga Gymnasium",
+          "form": "Kommunal",
+          "url": "http://www.spangagymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "J",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.081058008827586,
+            59.29239233232479
+          ]
+        },
+        "properties": {
+          "id": 30677562,
+          "name": "Sthlm hotell & restaurangsk",
+          "form": "Kommunal",
+          "url": "http://stockholmshotellochrestaurangskola.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "J",
+          "IN": "N",
+          "NB": "N",
+          "RL": "J",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.89666694807233,
+            59.26128146367994
+          ]
+        },
+        "properties": {
+          "id": 85054102,
+          "name": "Sthlm Transport- och fordonstekniska gymnasiet",
+          "form": "Kommunal",
+          "url": "http://www.stfg.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "J",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.089954621859476,
+            59.300827903930646
+          ]
+        },
+        "properties": {
+          "id": 24759907,
+          "name": "Fryshusets Gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.fryshuset.se/gymnasium",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "J",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.94531519185434,
+            59.40708994609386
+          ]
+        },
+        "properties": {
+          "id": 78433202,
+          "name": "Stockholm Science & Innovation School",
+          "form": "Kommunal",
+          "url": "http://ssis.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.02435644222413,
+            59.31403528888704
+          ]
+        },
+        "properties": {
+          "id": 35366805,
+          "name": "Stockholms Estetiska Gymnasium",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.estetiska.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.059770611113002,
+            59.35230011337731
+          ]
+        },
+        "properties": {
+          "id": 31315191,
+          "name": "Stockholms Idrottsgymnasium",
+          "form": "Vinstdrivande",
+          "url": "http://www.idrottsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.069152516324465,
+            59.31677297330206
+          ]
+        },
+        "properties": {
+          "id": 89370947,
+          "name": "Södra Latins gymnasium",
+          "form": "Kommunal",
+          "url": "http://sodralatinsgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "J",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.007160371439667,
+            59.27142772772601
+          ]
+        },
+        "properties": {
+          "id": 18451445,
+          "name": "Teknik & Service Gymnasiet",
+          "form": "Vinstdrivande",
+          "url": "http://www.tsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "J",
+          "HT": "N",
+          "IN": "J",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.07108366203125,
+            59.315489896194414
+          ]
+        },
+        "properties": {
+          "id": 48555205,
+          "name": "Thoren Business School Stockholm",
+          "form": "Vinstdrivande",
+          "url": "http://www.affarsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.9450229264386,
+            59.405534651536975
+          ]
+        },
+        "properties": {
+          "id": 31313926,
+          "name": "Thoren Innovation School Kista",
+          "form": "Vinstdrivande",
+          "url": "http://www.innovationsgymnasiet.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "N",
+          "ES": "J",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.013985588247404,
+            59.331878427550315
+          ]
+        },
+        "properties": {
+          "id": 32116280,
+          "name": "Thorildsplans gymnasium",
+          "form": "Kommunal",
+          "url": "http://thorildsplansgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "J",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "J"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.94802611423608,
+            59.40599174002749
+          ]
+        },
+        "properties": {
+          "id": 43565270,
+          "name": "Tibble Gymnasium Campus Kista",
+          "form": "Vinstdrivande",
+          "url": "http://www.tibble.nu/",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.064755294208354,
+            59.343378585948486
+          ]
+        },
+        "properties": {
+          "id": 64388538,
+          "name": "Viktor Rydberg gy. Jarlaplan",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.vrskolor.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "J",
+          "HU": "N",
+          "NA": "N",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.047846713350015,
+            59.34545599536265
+          ]
+        },
+        "properties": {
+          "id": 52153758,
+          "name": "Viktor Rydberg gy. Odenplan",
+          "form": "Icke-vinstdrivande",
+          "url": "http://www.vrskolor.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.1280782496022,
+            59.2646615229202
+          ]
+        },
+        "properties": {
+          "id": 16501673,
+          "name": "Yrkesgymnasiet Skarpnäck",
+          "form": "Vinstdrivande",
+          "url": "http://www.yrkesgymnasiet.se",
+          "BF": "N",
+          "BA": "J",
+          "EE": "J",
+          "FT": "J",
+          "HA": "J",
+          "HV": "J",
+          "HT": "J",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "J",
+          "EK": "N",
+          "ES": "N",
+          "HU": "N",
+          "NA": "N",
+          "SA": "N",
+          "TE": "N"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.086216588293233,
+            59.33946785982251
+          ]
+        },
+        "properties": {
+          "id": 99755443,
+          "name": "Östra Reals gymnasium",
+          "form": "Kommunal",
+          "url": "http://ostrarealsgymnasium.stockholm.se",
+          "BF": "N",
+          "BA": "N",
+          "EE": "N",
+          "FT": "N",
+          "HA": "N",
+          "HV": "N",
+          "HT": "N",
+          "IN": "N",
+          "NB": "N",
+          "RL": "N",
+          "VF": "N",
+          "VO": "N",
+          "EK": "J",
+          "ES": "N",
+          "HU": "N",
+          "NA": "J",
+          "SA": "J",
+          "TE": "N"
+        }
+      }
+    ]
+  }

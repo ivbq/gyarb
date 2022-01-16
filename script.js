@@ -16,64 +16,77 @@ fetch('nodes.geojson')
     .then(response => response.json())
     .then(data => nodeLayer.addData(data));
 
-fetch('nodes.geojson')
-    .then(response => response.json())
-    .then(async function name(data) {
-        var isoArray = [];
-        for (const [key, value] of Object.entries(data.features)) {
-            isoArray.push(await retrieveIsochrone(value));
-        }
-        console.log(isoArray);
-    })
-    
 let subwayNodes;
 fetch('subway.geojson')
     .then(response => response.json())
     .then(data => { subwayNodes = data; });
 
-let dataLayer = L.geoJSON().addTo(map);
+let isoLayer = L.geoJSON().addTo(map);
+let dirLayer = L.geoJSON().addTo(map);
 
 // Definitions
-let retrieveIsochrone = function (node) {
+function retrieveIsochrone(node) {
     return fetch(`https://api.mapbox.com/isochrone/v1/mapbox/walking/${formatCoords([node])}?contours_meters=250,500,750&generalize=0&polygons=true&access_token=pk.eyJ1IjoiaXZicSIsImEiOiJja3NwYmdtMXEwMXM2MzJ0aDF1YmVmMm42In0.atndUe-xK2oqzM8E8ZKDDQ`)
         .then(response => response.json())
         .then(data => {
-            map.removeLayer(dataLayer);
-            dataLayer = L.geoJSON(data).addTo(map);
+            map.removeLayer(isoLayer);
+            isoLayer = L.geoJSON(data).addTo(map);
             return data;
-        })
+        });
 }
 
-let sortClosest = function (nodes) {
-    const closest = (nodes.distances[0]).slice(1);
-    const i = closest.findIndex((n) => { return n == Math.min(...closest) });
-    return [nodes.destinations[1+i].location[0], nodes.destinations[1+i].location[1]];
+function sortClosest(nodes) {
+    var combined = (nodes.destinations).map((obj, index) => [obj, nodes.distances[0][index]]);
+    return combined[1];
 }
 
-let retrieveNearestStation = async function (node, points) {
+async function retrieveNearestStation(node, points) {
     if (points.features.length == 1) {
-        return [points.features[0].geometry.coordinates[0], points.features[0].geometry.coordinates[1]];
+        return node;
     }
     else if (points.features.length > 1) {
         return fetch(`https://api.mapbox.com/directions-matrix/v1/mapbox/walking/${formatCoords([node, points])}?sources=0&destinations=all&annotations=distance&access_token=pk.eyJ1IjoiaXZicSIsImEiOiJja3NwYmdtMXEwMXM2MzJ0aDF1YmVmMm42In0.atndUe-xK2oqzM8E8ZKDDQ`)
             .then(response => response.json())
-            .then(data => sortClosest(data))
+            .then(data => sortClosest(data));
     }
 }
 
-let retrieveDirections = async function (node, station) {
+async function retrieveDirections(node, station) {
+    station = station[0];
+    const coords = formatCoords([node, station]);
+    if (coords.length == 0)
+        return null;
     return fetch(`https://api.mapbox.com/directions/v5/mapbox/walking/${formatCoords([node, station])}?geometries=geojson&access_token=pk.eyJ1IjoiaXZicSIsImEiOiJja3NwYmdtMXEwMXM2MzJ0aDF1YmVmMm42In0.atndUe-xK2oqzM8E8ZKDDQ`)
         .then(response => response.json())
         .then(path => {
-            L.geoJSON(path.routes[0].geometry).addTo(map);
-            Promise.resolve(path);
-        })
+            map.removeLayer(dirLayer);
+            dirLayer = L.geoJSON(path.routes[0].geometry).addTo(map);
+            return path;
+        });
 }
 
-let formatCoords = function (nodeObject) {
-    let tempCoords = "";
-    nodeObject.forEach(obj => { tempCoords += `${turf.getCoord(obj)[0]},${turf.getCoord(obj)[1]};` })
-    return tempCoords.slice(0, -1);
+function formatCoords(nodeList) {
+    let coords = "";
+    for (const node of nodeList) {
+        if (node.hasOwnProperty('location'))
+            coords += `${node.location[0]},${node.location[1]}`;
+        else if (node.hasOwnProperty('features'))
+            for (const innerNode of node.features) {
+                coords += `${turf.getCoord(innerNode)[0]},${turf.getCoord(innerNode)[1]};`;
+            }
+        else
+            coords += `${turf.getCoord(node)[0]},${turf.getCoord(node)[1]};`;
+    }
+    return coords.slice(0, -1);
+}
+
+async function findPossibleStations(node) {
+    const circle = turf.ellipse(node, 5, 5);
+    const stations = turf.pointsWithinPolygon(subwayNodes, circle);
+    stations.features.sort((x, y) => turf.distance(x, node) - turf.distance(y, node));
+    if (stations.features.length > 9)
+        stations.features = stations.features.slice(0, 9);
+    return stations;
 }
 
 // Function to populate list of schools
@@ -85,8 +98,6 @@ let formatCoords = function (nodeObject) {
 //         document.getElementById("programs").appendChild(listElement);
 //     }
 // }
-
-
 
 // Dictionary of program name and corresponding program code for national programs
 const program = {
@@ -131,12 +142,8 @@ nodeLayer.on("click", (event) => {
         }
     }
 
-    // Retrieve, draw, and pass on distance isochrone for given school
     retrieveIsochrone(node)
-        // Pass on stations within isochrone
-        .then(isochrone => turf.pointsWithinPolygon(subwayNodes, isochrone.features[0]))
-        // Retrieve and pass on closest station within isochrone
+    findPossibleStations(node)
         .then(points => retrieveNearestStation(node, points))
-        // Retrieve and draw directions to nearest station
         .then(nearestStation => retrieveDirections(node, nearestStation))
 });

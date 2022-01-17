@@ -1,3 +1,13 @@
+// TODO: Scroll in when clicking on school in list/school as node
+
+// TODO: Fix issue where multiple school windows can be open at the same time
+
+// TODO: Allow for filtering schools
+// Apply filter to list of schools, only render in items/nodes that fit
+
+// TODO: Show information about nearest station: name, street, distance
+
+
 // Initialisation
 let map = L.map('leaflet').setView([59.3, 18.075], 13);
 

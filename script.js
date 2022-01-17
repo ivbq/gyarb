@@ -1,3 +1,4 @@
+// Initialisation
 let map = L.map('leaflet').setView([59.3, 18.075], 13);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -20,8 +21,27 @@ fetch('geometry.geojson')
         isochrones = data.map(tuple => tuple.isochrone);
         directions = data.map(tuple => tuple.directions);
         nodeLayer.addData(nodes);
+        return nodes;
+    })
+    .then(nodes => {
+        nodes.forEach(node => {
+            constructSchool(node);
+        })
     })
 
+nodeLayer.on("click", (event) => {
+    let node = event.layer.feature;
+    console.log(node);
+
+    getIsochrone(node);
+    getPathToNearest(node);
+});
+
+map.on("movestart", () => {
+    console.log("Moooove?");
+})
+
+// Definitions
 function getIsochrone(node) {
     const index = nodes.indexOf(node);
     const isochrone = isochrones[index];
@@ -29,11 +49,50 @@ function getIsochrone(node) {
     isoLayer.addData(isochrone);
 }
 
-function getDirections(node) {
+function getPathToNearest(node) {
     const index = nodes.indexOf(node);
     const direction = directions[index];
+    const path = direction.routes[0].geometry;
     dirLayer.clearLayers();
-    dirLayer.addData(direction.routes[0].geometry);
+    dirLayer.addData(path);
+}
+
+// I blame this mess on Javascript's handling (or lack thereof) of references
+// Reducing side-effects? Never heard of 'em
+function constructSchool(node) {
+    const school = document.querySelector("template").content.children[0].cloneNode(true);
+
+    // Accordion header & button
+    school.id = "";
+    school.children[0].children[0].attributes[2].nodeValue += node.properties.id;
+    school.children[0].children[0].innerText = node.properties.name;
+
+    // Accordion collapse & body
+    school.children[1].id += node.properties.id;
+    school.children[1].children[0].children[0].innerText = node.properties.name;
+    school.children[1].children[0].children[1].innerText = node.properties.form;
+
+    school.children[1].children[0].children[2].innerHTML = "";
+    for (const [key, value] of Object.entries(node.properties)) {
+        if (value == "J") {
+            let listElement = document.createElement("li");
+            listElement.innerHTML = program[key];
+            school.children[1].children[0].children[2].appendChild(listElement);
+        }
+    }
+
+    school.addEventListener("show.bs.collapse", (event) => {
+        const id = event.target.id.slice(1);
+        Object.entries(nodeLayer._layers).forEach(([key, value]) => {
+            if (value.feature.properties.id == id) {
+                map.setView(value._latlng);
+                getIsochrone(value.feature);
+                getPathToNearest(value.feature);
+            }
+        })
+    })
+
+    document.querySelector("#accordion").appendChild(school);
 }
 
 const program = {
@@ -54,28 +113,5 @@ const program = {
     SA: "Samhällsvetenskapsprogrammet",
     TE: "Teknikprogrammet",
     VF: "VVS- och fastighetsprogrammet",
-    VO: "Vård- och omsorgsprogrammet"
+    VO: "Vård- och omsorgsprogrammet" 
 }
-
-nodeLayer.on("click", (event) => {
-    let node = event.layer.feature;
-    console.log(node);
-
-    document.getElementById("school").innerHTML = node.properties.name;
-    document.getElementById("link").innerHTML = "Hemsida";
-    document.getElementById("link").href = node.properties.url;
-    document.getElementById("form").innerHTML = node.properties.form;
-
-    // Show available programs
-    document.getElementById("programs").innerHTML = "";
-    for (const [key, value] of Object.entries(node.properties)) {
-        if (value == "J") {
-            let listElement = document.createElement("li");
-            listElement.innerHTML = program[key];
-            document.getElementById("programs").appendChild(listElement);
-        }
-    }
-
-    getIsochrone(node);
-    getDirections(node);
-});

@@ -5,8 +5,6 @@
 // TODO: Add accessibility options?
 
 // Small issues:
-// TODO: Fix issue where multiple school windows can be open at the same time
-// TODO: Fix coloring issue with polygons
 // TODO: Add rudimentary keyboard control
 
 // Initialisation
@@ -52,18 +50,36 @@ map.on("movestart", () => {
 })
 
 // Definitions
+const colorArray = ["#bf4040", "#bf8f40", "#50bf40"];
 async function getIsochrone(node) {
     const index = nodes.indexOf(node);
     const isochrone = isochrones[index];
     isoLayer.clearLayers();
-    L.vectorGrid.slicer(isochrone, isoOptions).addTo(isoLayer);
+    isochrone.features.forEach((isochrone, i) => {
+        L.vectorGrid.slicer(isochrone, {
+            vectorTileLayerStyles: {
+                sliced: {
+                    fill: true,
+                    color: colorArray[i]
+                }
+            },
+            maxZoom: 20
+        }).addTo(isoLayer)
+    })
 }
 
 async function getPathToNearest(node) {
     const index = nodes.indexOf(node);
     const path = directions[index].routes[0].geometry;
     dirLayer.clearLayers();
-    L.vectorGrid.slicer(path, dirOptions).addTo(dirLayer);
+    L.vectorGrid.slicer(path, {
+        vectorTileLayerStyles: {
+            sliced: {
+                weight: 6,
+            }
+        },
+        maxZoom: 20
+    }).addTo(dirLayer);
 }
 
 function updateNodeList() {
@@ -113,22 +129,6 @@ function constructSchool(node) {
     })
 
     document.querySelector("#accordion").appendChild(school);
-}
-
-const isoOptions = {
-    vectorTileLayerStyles: {
-        inner: {},
-        middle: {},
-        outer: {}
-    },
-    maxZoom: 20
-}
-
-const dirOptions = {
-    vectorTileLayerStyles: {
-        path: {}
-    },
-    maxZoom: 20
 }
 
 const program = {

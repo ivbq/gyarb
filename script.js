@@ -42,7 +42,9 @@ nodeLayer.on("click", (event) => {
 
     // Calls function associated with event handler on list object
     // TODO: Refactor this previously mentioned event handler out
-    document.getElementById(`i${id}`).previousElementSibling.children[0].click();
+    const listObject = document.getElementById(`i${id}`).previousElementSibling.children[0];
+    listObject.click();
+    listObject.scrollIntoView({behavior: "smooth", block: "center"});
 });
 
 map.on("movestart", () => {

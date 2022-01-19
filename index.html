@@ -16,6 +16,7 @@
         <!-- Map -->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <script src="https://unpkg.com/leaflet.vectorgrid@latest/dist/Leaflet.VectorGrid.js"></script>
     </head>
     <body class="d-flex">
         <aside class="p-3 vh-100" style="width: 380px; overflow: scroll;">
@@ -131,18 +132,18 @@
     </body>
 
     <template>
-        <div id="default" class="accordion-item" data-bs-parent="#accordion">
+        <div id="default" class="accordion-item">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#i">
                     Name of school
                 </button>
             </h2>
-            <div id="i" class="accordion-collapse collapse">
+            <div id="i" class="accordion-collapse collapse" data-bs-parent="#accordion">
                 <div class="accordion-body">
-                    <h5 id="school" class="card-title">Ingen skola vald!</h5>
+                    <h5 id="school" class="card-title"></h5>
                     <h6 id="form" class="card-subtitle mb-2 text-muted"></h6>
+                    <h6 id="station" class="card-subtitle mb-2 text-muted"></h6>
                     <div id="programs" class="card-text p-2"></div>
-                    <a id="link" href="#" class="card-link"></a>
                 </div>
             </div>
         </div>

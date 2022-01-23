@@ -1,14 +1,14 @@
-// Planned features:
+// Possible features?
 // TODO: Allow for sorting and filtering schools
 // TODO: Only list visible nodes
 // TODO: Mobile support
 // TODO: Add accessibility options?
 
-// Small issues:
-// TODO: Add rudimentary keyboard control
-
 // Initialisation
-let map = L.map('leaflet').setView([59.3, 18.075], 13);
+let map = L.map('leaflet', {
+    minZoom: 11,
+    maxZoom: 17
+}).setView([59.3, 18.075], 13);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
